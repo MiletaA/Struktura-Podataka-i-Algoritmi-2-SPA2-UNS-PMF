@@ -1,0 +1,37 @@
+12
+202
+The Shawshank Redemption
+Frank Darabont
+211
+The Godfather
+Francis Ford Coppola
+214
+The Godfather: Part II
+Francis Ford Coppola
+201
+The Dark Knight
+Christopher Nolan
+205
+12 Angry Men
+Sidney Lumet
+212
+Schindler's List
+Steven Spielberg
+213
+The Lord of the Rings: The Return of the King
+Peter Jackson
+217
+Pulp Fiction
+Quentin Tarantino
+203
+The Good, the Bad and the Ugly
+Sergio Leonen
+215
+The Lord of the Rings: The Fellowship of the Ring
+Peter Jackson
+204
+Star Wars: Episode V - The Empire Strikes Back
+Irvin Kershner
+216
+The Matrix
+Lana Wachowski

@@ -1,0 +1,439 @@
+146
+202
+The Shawshank Redemption
+Frank Darabont
+211
+The Godfather
+Francis Ford Coppola
+214
+The Godfather: Part II
+Francis Ford Coppola
+201
+The Dark Knight
+Christopher Nolan
+205
+12 Angry Men
+Sidney Lumet
+212
+Schindler's List
+Steven Spielberg
+213
+The Lord of the Rings: The Return of the King
+Peter Jackson
+217
+Pulp Fiction
+Quentin Tarantino
+203
+The Good, the Bad and the Ugly
+Sergio Leonen
+215
+The Lord of the Rings: The Fellowship of the Ring
+Peter Jackson
+204
+Star Wars: Episode V - The Empire Strikes Back
+Irvin Kershner
+216
+The Matrix
+Lana Wachowski
+10
+Shelter
+Paul Bettany
+811
+Breast Men
+Lawrence O'Neil
+12
+My Favorite Martian
+Donald Petrie
+813
+Ed
+Bill Couturi
+184
+Transylvania Twist
+Jim Wynorski
+815
+Feds
+Daniel Goldberg
+816
+Barefoot to Jerusalem
+Nietzchka Keene
+817
+The Last American Virgin
+Boaz Davidson
+819
+Dillinger
+Rupert Wainwright
+820
+Judgment Night
+Stephen Hopkins
+821
+The Package
+Andrew Davis
+822
+Teachers
+Arthur Hiller
+823
+Ironweed
+Hector Babenco
+824
+A New Tomorrow
+Carey Corr
+825
+Moonlight Mile
+Brad Silberling
+826
+Man of the Year	Tamara Friedman
+Jonathan Tydor
+827
+The Adventures of Sebastian Cole
+Tod Williams
+828
+Mutant Vampire Zombies from the 'Hood!
+Thunder Levin
+829
+Evan Almighty
+Tom Shadyac
+830
+Lo
+Travis Betz
+831
+Dust Up
+Ward Roberts
+832
+Indictment: The McMartin Trial
+Mick Jackson
+833
+I Love You to Death
+Lawrence Kasdan
+835
+Hard Pill
+John Baumgartner
+836
+Wild Things
+John McNaughton
+837
+Wild Things 2
+Jack Perez
+838
+Wild Things: Diamonds in the Rough
+Jay Lowi
+839
+The Joyriders
+Bradley Battersby
+840
+Mo' Money
+Peter MacDonald
+841
+Crimson Tide
+Tony Scott
+842
+Disclosure
+Barry Levinson
+843
+Pastime	Robin
+B. Armstrong
+844
+Lena's Dreams
+Heather Johnston
+848
+Un t con Mussolini
+Franco Zeffirelli
+849
+Everyone Says I Love You
+Woody Allen
+851
+The Sentinel
+Clark Johnson
+452
+Wildflowers
+Melissa Painter
+2353
+Dead End
+Jean-Baptiste Andrea
+854
+Frankenfish	Mark
+A.Z. Dipp
+55
+Squeeze Play
+Lloyd Kaufman
+856
+Eye for an Eye
+John Schlesinger
+857
+King Leopold's Ghost
+Oreet Rees
+858
+Your Mommy Kills Animals!
+Curt Johnson
+859
+The Snow Walker	Charles
+Martin Smith
+463
+The Man with Two Brains
+Carl Reiner
+64
+Revenge of the Nerds
+Jeff Kanew
+865
+Revenge of the Nerds II: Nerds in Paradise
+Joe Roth
+966
+Revenge of the Nerds III: The Next Generation
+Roland Mesa
+967
+Revenge of the Nerds IV: Nerds in Love
+Steve Zacharias
+368
+The People vs. Larry Flynt
+Milos Forman
+69
+Babe
+Chris Noonan
+70
+Babe: Pig in the City
+George Miller
+721
+Fail Safe
+Martin Pasetta
+72
+Sticks & Stones
+Neil Tolkin
+73
+New Suit
+Franois Velle
+74
+The Rules of Attraction
+Roger Avary
+735
+The Substance of Fire
+Daniel J. Sullivan
+756
+The Day the Bubble Burst
+Joseph Hardy
+77
+Keeping the Faith
+Edward Norton
+798
+The Cheap Detective
+Robert Moore
+79
+Secretariat
+Randall Wallace
+80
+Proof
+John Madden
+81
+Proof
+Jocelyn Moorhouse
+812
+Steve Irwin: He Changed Our World
+Bruce Wuth
+83
+Red Obsession
+Warwick Ross
+842
+Return of the Secaucus Seven
+John Sayles
+852
+Silkwood
+Mike Nichols
+860
+The Brother from Another Planet
+John Sayles
+872
+At Close Range
+James Foley
+882
+Dominick and Eugene
+Robert M. Young
+892
+Eight Men Out
+John Sayles
+902
+Memphis Belle
+Michael Caton-Jones
+91
+City of Hope
+John Sayles
+922
+Le grand restaurant
+Jacques Besnard
+932
+Restaurant
+Eric Bross
+942
+Ride with the Devil
+Ang Lee
+952
+Bob Roberts
+Tim Robbins
+962
+Passion Fish
+John Sayles
+972
+The Firm
+Sydney Pollack
+982
+Lost in Yonkers
+Martha Coolidge
+992
+Dolores Claiborne
+Taylor Hackford
+102
+Bad Manners
+Jonathan Kaufer
+1022
+Limbo	
+John Sayles
+1021
+Howl
+Jeffrey Friedman
+1032
+Temple Grandin
+Mick Jackson
+1042
+The Whistleblower
+Larysa Kondracki
+1052
+No God, No Master
+Terry Green
+1062
+Glosniej od bomb
+Przemyslaw Wojcieszek
+1072
+Interstate 84
+Ross Partridge
+1082
+Pay It Forward
+Mimi Leder
+1092
+Louder Than Bombs
+Joachim Trier
+1102
+Recount
+Jay Roach
+1112
+Mr. Gibb
+David Ostry
+3117
+Jack Irish: Bad Debts
+Jeffrey Walker
+3118
+Jack Irish: Dead Point
+Jeffrey Walker
+3119
+Jack Irish: Black Tide
+Jeffrey Walker
+3120
+The Rover
+David Michd
+3121
+Car Wash
+Michael Schultz
+3122
+Goin' South
+Jack Nicholson
+3123
+Terms of Endearment
+James L. Brooks
+3124
+The Burning Plain
+Guillermo Arriaga
+3125
+Charlie St. Cloud
+Burr Steers
+3126
+Grudge Match
+Peter Segal
+3127
+The Nice Guys
+Shane Black
+3128
+Domino
+Ivana Massetti
+3129
+Tombstone
+George P. Cosmatos
+3130
+Ruthless People
+Jim Abrahams
+3131
+Head Office
+Ken Finkleman
+3132
+Throw Momma from the Train
+Danny DeVito
+3133
+Tin Men
+Barry Levinson
+3134
+The War of the Roses
+Danny DeVito
+3135
+Camp X-Ray
+Peter Sattler
+3136
+Just Add Water
+Hart Bochner
+3137
+Guest of Cindy Sherman
+Tom Donahue
+3138
+Batman Returns
+Tim Burton
+3139
+Defiance
+Edward Zwick
+3140
+Limitless
+Neil Burger
+3141
+Four Friends
+Arthur Penn
+3142
+Tex
+Tim Hunter
+3143
+River's Edge
+Tim Hunter
+3144
+Hot to Trot
+Michael Dinner
+3145
+One False Move
+Carl Franklin
+3146
+The Big Brass Ring
+George Hickenlooper
+3147
+The Friends of Eddie Coyle
+Peter Yates
+3148
+Harry and Tonto
+Paul Mazursky
+3149
+Best Laid Plans
+Mike Barker
+3150
+8.5 Hours
+Brian Lally
+3151
+St. Patrick's Day
+Hope Perello
+3152
+Dunsmore
+Peter Spirer
+3153
+Best Laid Plans
+David Blair
+3154
+Halloween III: Season of the Witch
+Tommy Lee Wallace
+3155
+Halloween 4: The Return of Michael Myers
+Dwight H. Little
+3156
+Halloween 5: The Revenge of Michael Myers
+Dominique Othenin-Girard
+3157
+Halloween: The Curse of Michael Myers
+Joe Chappelle
