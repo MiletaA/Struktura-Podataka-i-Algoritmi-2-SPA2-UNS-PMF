@@ -45,6 +45,7 @@ public class Dete extends InfoTip {
 			rez = 17 * rez + ime.hashCode() * 17;
 		if (this.prezime != null)
 			rez = 7919 * rez + prezime.hashCode() * 17;
+		rez = 17* rez + god * 17;
 		int tmp = dl ? 1 : 0;
 		rez = 17 * rez + tmp * 17;
 		if (this.g != null)
